@@ -98,14 +98,3 @@ Interact with the bot on Telegram.
 
 ---
 
-## **Contributing**
-Feel free to submit pull requests! For major changes, please open an issue first.
-
----
-
-## **License**
-This project is open-source under the **MIT License**.
-
----
-
-This README provides clear instructions for setting up and using the project. Let me know if you need any modifications! 🚀
