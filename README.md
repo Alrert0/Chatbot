@@ -29,7 +29,7 @@ Ensure you have **Python 3.8+** installed.
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/knowledge-navigator.git
+git clone https://github.com/Alrert0/Finalap/tree/main
 cd knowledge-navigator
 ```
 
