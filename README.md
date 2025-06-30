@@ -84,17 +84,3 @@ Interact with the bot on Telegram.
 - Users send queries via Telegram.
 - The bot retrieves information and responds.
 
----
-
-## **Screenshots**
-![image](https://github.com/user-attachments/assets/b93bee2e-a41c-4fad-88af-a5567a27825d)
-![image](https://github.com/user-attachments/assets/27e00bd9-7ea9-4597-a243-5896ebb51fc0)
-![image](https://github.com/user-attachments/assets/4365d81e-39da-4e1a-992d-0044155c262a)
-![image](https://github.com/user-attachments/assets/cdd552f5-a577-42df-8a00-a0fb703262a0)
-![image_2025-02-11_16-22-08](https://github.com/user-attachments/assets/e7fdead5-ca60-40e5-8fd8-bce513e9249a)
-![image_2025-02-11_16-22-28](https://github.com/user-attachments/assets/7c85f82a-87e0-440b-ba4d-891247a64507)
-
-
-
----
-
