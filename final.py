@@ -22,7 +22,6 @@ import logging
 import threading
 import sys
 
-
 try:
     import nest_asyncio
     nest_asyncio.apply()
