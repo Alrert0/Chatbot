@@ -28,7 +28,7 @@ os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 client = chromadb.PersistentClient(path=chroma_db_path)
 collection = client.get_or_create_collection(name=collection_name, metadata={"description": "Knowledge base for RAG"})
 
-# Embedding model
+# Embedding model 
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Добавляем новые константы
