@@ -29,7 +29,7 @@ Ensure you have **Python 3.8+** installed.
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/Alrert0/Finalap/tree/main
+git clone https://github.com/Alrert0/Chatbot/tree/main
 cd knowledge-navigator
 ```
 
